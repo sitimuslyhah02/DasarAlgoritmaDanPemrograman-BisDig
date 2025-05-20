@@ -27,16 +27,13 @@ N0 2. Jelaskan peran tipe data dan operator dalam menyelesaikan perhitungan ters
    Operator perbandingan: Setelah mendapatkan rata-rata, kita perlu membandingkannya dengan nilai ambang batas kelulusan.
 
 N0 3. Jelaskan manfaat penggunaan fungsi dan bagaimanar rekursi  bekerja dalam menghitung faktorial
-    Manfaat penggunaan rekursi yaitu
-    
+          Manfaat penggunaan rekursi yaitu
     Modularitas: Fungsi memungkinkan pemecahan program menjadi bagian-bagian kecil yang lebih mudah dikelola dan dipahami.
     Reusabilitas: Fungsi yang telah dibuat dapat digunakan kembali di berbagai bagian program tanpa perlu menulis ulang kode.
     Abstraksi: Fungsi menyembunyikan detail implementasi dan hanya menampilkan antarmuka yang diperlukan, 
     sehingga pengguna fungsi tidak perlu memahami cara kerjanya secara mendalam.
     Pengujian dan Pemeliharaan: Fungsi yang terpisah memudahkan pengujian dan pemeliharaan kode, karena setiap fungsi dapat diuji secara independen.
-    
-    Cara rekursi bekerja dalam menghitung faktorial:
-
+          Cara rekursi bekerja dalam menghitung faktorial:
     1. Basis kasus Basis Kasus: Jika n=0, maka fungsi akan mengembalikan nilai 1.
     2. Kasus Rekursif jika n>0 fungsi akan memanggil dirinya sendiri dengan argumen n-1 dan mengalikan hasilnya dengan n
 
