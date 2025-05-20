@@ -31,7 +31,8 @@ N0 3. Jelaskan manfaat penggunaan fungsi dan bagaimanar rekursi  bekerja dalam m
     
     Modularitas: Fungsi memungkinkan pemecahan program menjadi bagian-bagian kecil yang lebih mudah dikelola dan dipahami.
     Reusabilitas: Fungsi yang telah dibuat dapat digunakan kembali di berbagai bagian program tanpa perlu menulis ulang kode.
-    Abstraksi: Fungsi menyembunyikan detail implementasi dan hanya menampilkan antarmuka yang diperlukan, sehingga pengguna fungsi tidak perlu memahami cara kerjanya secara mendalam.
+    Abstraksi: Fungsi menyembunyikan detail implementasi dan hanya menampilkan antarmuka yang diperlukan, 
+    sehingga pengguna fungsi tidak perlu memahami cara kerjanya secara mendalam.
     Pengujian dan Pemeliharaan: Fungsi yang terpisah memudahkan pengujian dan pemeliharaan kode, karena setiap fungsi dapat diuji secara independen.
     
     Cara rekursi bekerja dalam menghitung faktorial:
